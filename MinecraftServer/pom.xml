@@ -18,8 +18,13 @@
 
     <repositories>
         <repository>
+<<<<<<< HEAD
             <id>repobo-snap</id>
-            <url>http://repo.bukkit.org/content/groups/public</url>
+            <url>http://maven.sk89q.com/repo</url>
+=======
+            <id>techcable-repo</id>
+            <url>https://repo.techcable.net/content/groups/public/</url>
+>>>>>>> 50f7aab6fe8664600066ec40a5030609fbea65d7
         </repository>
     </repositories>
 
